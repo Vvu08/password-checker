@@ -31,7 +31,7 @@ The following steps have been compeleted:
 Clone the project
 
 ```bash
-  git clone https://github.com/
+  git clone https://github.com/Vvu08/password-checker
 ```
 
 Go to the project directory.
